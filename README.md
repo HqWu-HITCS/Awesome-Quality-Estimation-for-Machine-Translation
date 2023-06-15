@@ -1,4 +1,4 @@
-# Quality-Estimation-for-Machine-Translation-Resource
+# Awesome-Quality-Estimation-for-Machine-Translation
 
 This repository is to collect resource for quality estimation of machine translation . 
 
