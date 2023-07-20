@@ -6,6 +6,10 @@ We strongly encourage the researchers that want to promote their fantastic work 
 
 # Paper
 
+- [Improving Translation Quality Estimation with Bias Mitigation (ACL23)](https://anthology.org/2023.acl-long.121.pdf)
+
+- [Bias Mitigation in Machine Translation Quality Estimation (ACL22)](https://aclanthology.org/2022.acl-long.104.pdf)
+
 - [Unsupervised Quality Estimation for Neural Machine Translation (TACL20)](https://aclanthology.org/2020.tacl-1.35.pdf)
 
 - [Self-Supervised Quality Estimation for Machine Translation (EMNLP21)](https://aclanthology.org/2021.emnlp-main.267.pdf)
@@ -19,8 +23,6 @@ We strongly encourage the researchers that want to promote their fantastic work 
 - [Continual Quality Estimation with Online Bayesian Meta-Learning (ACL21)](https://aclanthology.org/2021.acl-short.25.pdf)
 
 - [Knowledge Distillation for Quality Estimation (ACL21)](https://aclanthology.org/2021.findings-acl.452.pdf)
-
-- [Bias Mitigation in Machine Translation Quality Estimation (ACL22)](https://aclanthology.org/2022.acl-long.104.pdf)
 
 - [PreQuEL: Quality Estimation of Machine Translation Outputs in Advance (EMNLP22)](https://arxiv.org/pdf/2205.09178)
 
